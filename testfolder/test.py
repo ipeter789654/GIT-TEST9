@@ -1,2 +1,6 @@
 print ("hello world")
 print ("hello world1")
+print ("new FW rule")
+print ("new FW rule1")
+print ("new FW rule2")
+print ("new FW rule3")
